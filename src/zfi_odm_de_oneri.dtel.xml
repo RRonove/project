@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZFI_ODM_DE_ONERI</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>UNAME</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Öneri Oluşturma Yetkisi Data Element</DDTEXT>
+    <REPTEXT>Öneri Oluşturma Yetkisi</REPTEXT>
+    <SCRTEXT_S>Ö. Oluştu.</SCRTEXT_S>
+    <SCRTEXT_M>Öneri Oluşturma Yet.</SCRTEXT_M>
+    <SCRTEXT_L>Öneri Oluşturma Yetkisi</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
