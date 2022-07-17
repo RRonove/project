@@ -126,6 +126,10 @@
     <item>/src/zfi_odm_t_006s.tobj.xml</item>
     <item>/src/zfi_odm_t_007.tabl.xml</item>
     <item>/src/zfi_odm_ta.nrob.xml</item>
+    <item>/src/zrc_p_odev6class.prog.abap</item>
+    <item>/src/zrc_p_odev6class.prog.xml</item>
+    <item>/src/zrc_p_odev9.prog.abap</item>
+    <item>/src/zrc_p_odev9.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
